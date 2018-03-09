@@ -1,2 +1,2 @@
-# Lab5
-David Arango Aguirre's Lab 5
+# JSPlatformer
+JS Platformer for DIG 3480C
